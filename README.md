@@ -48,7 +48,6 @@ smart-lender/
 │   ├── model_evaluation_report.txt
 │   └── metrics_summary.json
 ├── templates/
-│   ├── layout.html
 │   ├── home.html
 │   ├── predict.html
 │   └── submit.html
